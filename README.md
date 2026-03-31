@@ -5,7 +5,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://pin.it/6uYQe6Fme"  />
+  <img height="200" src="![phasmophobia-ghost](https://github.com/user-attachments/assets/08debd7e-5c57-445e-8139-2327dc5f2c14)
+"  />
 </div>
 
 ###
