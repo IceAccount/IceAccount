@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">Im the ghosts guy</p>
+<p align="left">Studying</p>
 
 ###
 
