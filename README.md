@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Studying</p>
+<h3 align="left">➥ Mastering:</h3>
 
 ###
 
