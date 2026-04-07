@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">IceAccount or IceStul - Coding guy</h1>
+<h1 align="left">Ice - Coding guy</h1>
 
 ###
 
