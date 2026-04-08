@@ -22,4 +22,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6756be9a-2720-4ea9-879c-29028f6e7eba"  />
 </div>
